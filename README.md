@@ -3,7 +3,7 @@
 This repository assesses gender-based differences in average goals scored in international soccer matches. Utilizing a 10% significance level, a hypothesis test determines whether women's and men's matches exhibit similar goal averages.
 
 #### Contents
-- Data: men_results.csv ,women_results.csv Datasets for women's and men's international soccer matches.
+- Datasets: men_results.csv ,women_results.csv
 - Analysis Notebook: Jupyter Notebook with code for hypothesis testing.
 - README: Overview and instructions for replicating the analysis.
 
