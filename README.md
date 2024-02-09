@@ -1,4 +1,4 @@
-###Soccer Match Gender Goal Analysis
+## Soccer Match Gender Goal Analysis
 
 This repository assesses gender-based differences in average goals scored in international soccer matches. Utilizing a 10% significance level, a hypothesis test determines whether women's and men's matches exhibit similar goal averages.
 
